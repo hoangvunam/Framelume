@@ -5,8 +5,7 @@
 <h1 align="center">Framelume</h1>
 
 <p align="center">
-  Crop, clean up and watermark your photos and videos, right on your Mac.<br>
-  <i>Cắt, làm sạch và đóng dấu ảnh lẫn video, ngay trên máy Mac của bạn.</i>
+  Crop, clean up and watermark your photos and videos, right on your Mac.
 </p>
 
 <p align="center">
@@ -56,12 +55,6 @@ The app is signed with Developer ID and notarized by Apple, so it opens without 
 
 - Photos: LaMa, about 190 MB.
 - Video: ProPainter with PyTorch, about 1.5 GB. Needs Python 3.10 or later on the Mac; 16 GB of RAM is recommended. ProPainter is licensed under NTU S-Lab 1.0, for non-commercial use only.
-
-## Tiếng Việt
-
-Framelume là ứng dụng macOS miễn phí để cắt, nắn thẳng, xoá vết bụi, xoá logo và vật thể bằng AI, đóng dấu watermark và sửa metadata cho cả ảnh lẫn video. Có thể sửa một file, lưu thành preset rồi áp cho cả loạt file. Mọi xử lý chạy ngay trên máy, không tải ảnh lên đâu cả, và file gốc không bao giờ bị ghi đè.
-
-Cài đặt: tải [Framelume-1.0.zip](https://github.com/hoangvunam/Framelume/releases/download/v1.0/Framelume-1.0.zip), giải nén rồi kéo **Framelume.app** vào Applications. Cần macOS 13 trở lên. Mô hình AI tải thêm một lần trong Settings › Object Removal.
 
 ---
 

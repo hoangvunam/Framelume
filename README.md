@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hoangvunam/Framelume/releases/download/v1.0.1/Framelume-1.0.1.zip"><b>⬇ Download Framelume 1.0.1</b></a> (4 MB) ·
+  <a href="https://github.com/hoangvunam/Framelume/releases/download/v1.1/Framelume-1.1.zip"><b>⬇ Download Framelume 1.1</b></a> (4 MB) ·
   macOS 13 or later · free ·
   <a href="https://github.com/hoangvunam/Framelume/releases">all releases</a>
 </p>
@@ -46,7 +46,7 @@ Everything runs on your Mac with Core Image, AVFoundation, Vision and Core ML. N
 
 ## Install
 
-1. Download [Framelume-1.0.1.zip](https://github.com/hoangvunam/Framelume/releases/download/v1.0.1/Framelume-1.0.1.zip) and unzip it.
+1. Download [Framelume-1.1.zip](https://github.com/hoangvunam/Framelume/releases/download/v1.1/Framelume-1.1.zip) and unzip it.
 2. Drag **Framelume.app** to Applications and open it.
 
 The app is signed with Developer ID and notarized by Apple, so it opens without a Gatekeeper warning.
@@ -58,4 +58,4 @@ The app is signed with Developer ID and notarized by Apple, so it opens without 
 
 ---
 
-<sub>This repository hosts the app downloads. SHA-256 of Framelume-1.0.1.zip: `f409ab258274fd76103d3dfe30301a8e8506d3dcae71c8e5a36947358f22ca2a`</sub>
+<sub>This repository hosts the app downloads. SHA-256 of Framelume-1.1.zip: `de1e85e43e2b855173914ad5d595ba17762d744064f56c7a032812ec1960cca3`</sub>
